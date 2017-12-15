@@ -1,6 +1,10 @@
 # OpenCV
 学习如何使用OpenCV库
 
+## list
+
+[遍历图片](image_iterator_cpp/readme.md)
+
 ## 调用方法
 如果是C++ API:
 
