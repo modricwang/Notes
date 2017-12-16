@@ -2,3 +2,5 @@
 [C++](cpp/index.md)
 
 [OpenCV](opencv/index.md)
+
+[Linux](linux/index.md)
