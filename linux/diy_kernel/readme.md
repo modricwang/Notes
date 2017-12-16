@@ -75,7 +75,7 @@ SYSCALL_DEFINE1(unhide_process,  pid_t, pid)
 		task = find_task_by_vpid(pid);
 		if (task == NULL)
 			return -1;
-													}
+		}
 
 	task->hide = 0;
 
